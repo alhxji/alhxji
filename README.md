@@ -16,14 +16,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alhxji&count_private=true&show_icons=true&theme=nightowl" />
 </a>
 <br />
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=@An0nym0usAng3l">
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=@alhxji">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alhxji&theme=nightowl&v=2" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nym0usAng3l">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alhxji">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhxji&theme=nightowl" />
 </a> -->
+<!-- <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alhxji&label=Profile%20views&color=001727&style=plastic&label=Profile+Hits" alt="alhxji" /> </p> -->
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=an0nym0usang3l&label=Profile%20views&color=001727&style=plastic&label=Profile+Hits" alt="alhxji" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alhxji&label=Profile%20views&color=001727&style=plastic&label=Profile+Hits" alt="alhxji" /> </p>
 
 
 
